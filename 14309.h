@@ -33,7 +33,7 @@ namespace oj {
     public:
         ConeNut(double, double);
     };
-    
+
     class CylinderNut : public Nut {
         double radius, height;
 
